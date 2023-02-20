@@ -44,11 +44,11 @@ void ForOddLenght(int len, int num)
     
     if (num == compared)
     {
-        System.Console.WriteLine($"Число {numOrig}, является палидромом.");
+        System.Console.WriteLine($"Число {numOrig}, является палиднромом.");
     }
     else
     {
-        System.Console.WriteLine($"Число {numOrig}, не является палидромом.");
+        System.Console.WriteLine($"Число {numOrig}, не является палиндромом.");
     }
 }
 
@@ -65,11 +65,11 @@ void ForEvenLenght(int len, int num)
     
     if (num == compared)
     {
-        System.Console.WriteLine($"Число {numOrig}, является палидромом.");
+        System.Console.WriteLine($"Число {numOrig}, является палиндромом.");
     }
     else
     {
-        System.Console.WriteLine($"Число {numOrig}, не является палидромом.");
+        System.Console.WriteLine($"Число {numOrig}, не является палиндромом.");
     }
 }
 

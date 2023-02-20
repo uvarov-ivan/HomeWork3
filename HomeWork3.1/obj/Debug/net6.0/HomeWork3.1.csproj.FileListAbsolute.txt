@@ -1,0 +1,15 @@
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\bin\Debug\net6.0\HomeWork3.1.exe
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\bin\Debug\net6.0\HomeWork3.1.deps.json
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\bin\Debug\net6.0\HomeWork3.1.runtimeconfig.json
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\bin\Debug\net6.0\HomeWork3.1.dll
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\bin\Debug\net6.0\HomeWork3.1.pdb
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.csproj.AssemblyReference.cache
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.AssemblyInfoInputs.cache
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.AssemblyInfo.cs
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.csproj.CoreCompileInputs.cache
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.dll
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\refint\HomeWork3.1.dll
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.pdb
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\HomeWork3.1.genruntimeconfig.cache
+C:\Users\Иоан\Desktop\HomeWork3\HomeWork3.1\obj\Debug\net6.0\ref\HomeWork3.1.dll
